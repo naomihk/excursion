@@ -1,0 +1,29 @@
+h1{
+font-family: "Verdena";
+font-weight: Normal;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+
+h2{
+  font-family: Verdena;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+h3{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p{
+  font-family: Verdena;
+  font-size: 21px;
+  color: grey;
+}
+
+body{
+  background-color: black;
+}
