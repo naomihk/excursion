@@ -27,3 +27,9 @@ p{
 body{
   background-color: black;
 }
+.phone {
+  background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg");
+  background-size: cover;
+  width: 1200px;
+  height: 1200px;
+}
